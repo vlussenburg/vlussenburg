@@ -10,7 +10,8 @@
 
 ### Side projects
 
-- [The Meaningful Sh*t Show](https://themeaningfulshit.show) - A podcast about psychology and personal development
+- [The Meaningful Sh*t Show](https://themeaningfulshit.show) - My podcast about psychology and personal development
 - [@foodwithvincent](https://instagram.com/foodwithvincent) - Nutrient-dense, budget-friendly food, backed by real tracking data
-- [IMDb](https://www.imdb.com/name/nm18194539/?ref_=tt_cst_t_6))
-- [Actors Access](https://resumes.actorsaccess.com/vincentlussenburg)
+- [IMDb](https://www.imdb.com/name/nm18194539/?ref_=tt_cst_t_6) - my IMDBb profile
+- [Actors Access](https://resumes.actorsaccess.com/vincentlussenburg) - my Actors Access profile
+
