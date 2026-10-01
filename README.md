@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👋 Hi, I'm Vincent
 
-<!--
-**vlussenburg/vlussenburg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 💼 Senior Customer Solutions Architect at GitHub, based in Los Angeles
+- 🇳🇱 Dutch, living in Koreatown
+- 🛠️ Started out writing Java and designing software architecture, then spent 20+ years in pre-sales and solutions engineering across DevOps and developer tooling
+- 🎓 MSc in Software Engineering from the University of Amsterdam (thesis on model-driven software engineering)
+- 🌱 Currently learning Spanish
+- 🍳 Outside of work: acting, food content, podcasting, lifting and skiing
+- 📫 Find me on [LinkedIn](https://www.linkedin.com/in/vincentlussenburg/)
 
-Here are some ideas to get you started:
+### Side projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [The Meaningful Sh*t Show](https://themeaningfulshit.show) - A podcast about psychology and personal development
+- [@foodwithvincent](https://instagram.com/foodwithvincent) - Nutrient-dense, budget-friendly food, backed by real tracking data
+- [IMDb](https://www.imdb.com/name/nm18194539/?ref_=tt_cst_t_6))
+- [Actors Access](https://resumes.actorsaccess.com/vincentlussenburg)
